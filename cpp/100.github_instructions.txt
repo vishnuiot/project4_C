@@ -6,3 +6,13 @@ git remote add origin https://github.com/vishnuiot/project4_C.git
 git config pull.rebase false # tells git to use a merge strategy by default
 git pull origin main --allow-unrelated-histories
 git config pull.rebase false # tells git to use a merge strategy by default
+
+git pull https://github.com/vishnuiot/project4_C.git
+git push https://github.com/vishnuiot/project4_C.git
+
+git remote -v  # lists all remote repositories
+git remote add origin   
+git status # 
+
+https://github.com/vishnuiot/project4_C/tree/main/cpp
+https://github.dev/vishnuiot/project4_C/tree/main/cpp  # online terminal
