@@ -13,5 +13,4 @@ git pull https://https://github.com/vishnuiot/project4_Embedded_C/
 git push https://https://github.com/vishnuiot/project4_Embedded_C/
 
 git remote -v  # lists all remote repositories
-git remote add origin   
 git status # 
