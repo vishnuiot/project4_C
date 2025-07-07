@@ -1,0 +1,23 @@
+# remove all previous git  from local folder 
+rm -fr .git  
+git init
+git branch -m main  # rename local brach to remote or any other name_ like master
+git add .
+git commit -m "Git commit history created"
+#git remote add origin https://github.com/vishnuiot/project4_C.git
+git config pull.rebase false # tells git to use a merge strategy by default
+git pull origin main --allow-unrelated-histories
+git config pull.rebase false # tells git to use a merge strategy by default
+
+git pull https://github.com/vishnuiot/project4_C.git
+git push https://github.com/vishnuiot/project4_C.git
+
+git remote -v  # lists all remote repositories
+git remote add origin   
+git status # 
+cpp
+https://github.com/vishnuiot/project4_C/tree/main/cpp
+https://github.dev/vishnuiot/project4_C/tree/main/cpp  # online terminal
+rm -fr .git  # remove git folder
+
+https://github.com/vishnuiot/project4_C/tree/29c5ebf43f4979a15322d7bff493d08ce935c69e/cpp
