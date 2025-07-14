@@ -1,5 +1,4 @@
 #include <iostream>
-#include "001.program1b.h"
 using namespace std;
 
 int main()  
