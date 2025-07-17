@@ -1,0 +1,10 @@
+<<<<<<< HEAD
+asadfjak
+=======
+<<<<<<< HEAD
+<x<<<adafds
+adfakjdflakdj;l
+=======
+<x<<<adafds
+>>>>>>> 035499697fe9fedb16dfafcec50dc515c48792d1
+>>>>>>> 5e578c8925a3895d57981c0320df6c387b03baab
