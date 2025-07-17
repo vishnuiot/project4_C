@@ -1,3 +1,4 @@
+# first 6 steps work
 # rm -fr .git  
 # git init
 # git branch -m Grundkurs_C  # rename local brach to remote or any other name_ like master
@@ -12,3 +13,8 @@
 # git log --graph --oneline --decorate --all  ## on terminal displays the commit history
 # git config --global push.autoSetupRemote true
 # git push
+
+git --work-tree="." pull --allow-unrelated-histories
+git pull origin Grundkurs_C --allow-unrelated-histories
+git config pull.rebase false
+git push origin Grundkurs_C
