@@ -14,6 +14,7 @@ git push https://github.com/vishnuiot/project4_Embedded_C/
 
 git remote -v  # lists all remote repositories
 git status # 
+<<<<<<< HEAD
 
 git pull --rebase origin main
 git push origin main
@@ -33,3 +34,5 @@ git push origin main
 # git config --global push.autoSetupRemote true
 # git push
 
+=======
+>>>>>>> 035499697fe9fedb16dfafcec50dc515c48792d1

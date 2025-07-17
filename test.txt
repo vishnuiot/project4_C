@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 <x<<<adafds
 adfakjdflakdj;l
+=======
+<x<<<adafds
+>>>>>>> 035499697fe9fedb16dfafcec50dc515c48792d1

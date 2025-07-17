@@ -19,3 +19,6 @@ git pull origin Grundkurs_C --allow-unrelated-histories
 git config pull.rebase false
 git push origin Grundkurs_C
 git merge --abort
+
+Step 1:git pull origin Grundkurs_C 
+
