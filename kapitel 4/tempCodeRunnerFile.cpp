@@ -1,0 +1,1 @@
+ // cout<<"gesamtpreis"<<anzahl="gesamtpreis "<<anzahl*preis<<endl;

@@ -1,0 +1,6 @@
+# move files in github
+https://www.youtube.com/watch?v=caYzPqwfniY
+# clone a specific folder from a github repository
+https://medium.com/@gabrielcruz_68416/clone-a-specific-folder-from-a-github-repository-f8949e7a02b4
+
+https://www.git-tower.com/learn/git/faq/git-sparse-checkout
